@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiScreen_prac5</string>
+    <string name="page1">Флаг Аргентины</string>
+    <string name="page2">Флаг Бразилии</string>
+    <string name="page3">Флаг Чили</string>
+    <string name="page4">Флаг Колумбии</string>
+    <string name="page5">Флаг Уругвэй</string>
+</resources>
